@@ -10,7 +10,7 @@ const generatePage = (name, github) => {
     </head>
   
     <body>
-      <h1>${name}</h1>
+      <h1>${Timi}</h1>
       <h2><a href="https://github.com/${github}">Github</a></h2>
     </body>
     </html>
